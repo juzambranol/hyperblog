@@ -1,15 +1,7 @@
 hola
 esto es un texto de ejemplo
 Juan Camilo Zambrano Lopez
-<<<<<<< HEAD
 master 1
 master 2
-=======
 experimento 1
-<<<<<<< HEAD
-master 1
->>>>>>> cd5eb6f (exp 1)
-=======
 experimento 2
-master 1
->>>>>>> 122e448 (exp 2)
