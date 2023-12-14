@@ -9,4 +9,5 @@ Yo daria :
 Y podría:
 * reparar mi alma herida
 A la luz del sol
+Yo sé que algunas veces me equivoco demasiado
 monda
