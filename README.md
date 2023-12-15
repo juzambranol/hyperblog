@@ -8,6 +8,11 @@ Yo daria :
 * por estar con vos
 Y podría:
 * reparar mi alma herida
+
 A la luz del sol
 Yo sé que algunas veces me equivoco demasiado
 monda
+* Y eres tu solo tu la que me lleva a la luna
+
+monda
+* Junior tu jaja
